@@ -1,0 +1,3 @@
+[submodule "Sample-Scripts"]
+	path = Sample-Scripts
+	url = https://github.com/Nisarga/Sample-Scripts.git
