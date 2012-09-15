@@ -1,3 +1,4 @@
+#FInd the first non-repeated character in a string
 import os
 strx = raw_input("Please enter the string")
 print "\n" +strx
