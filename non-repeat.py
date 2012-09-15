@@ -1,4 +1,4 @@
-#FInd the first non-repeated character in a string
+#Find the first non-repeated character in a string
 import os
 strx = raw_input("Please enter the string")
 print "\n" +strx
@@ -15,6 +15,8 @@ while i<lenStr:
 
 print dict_words
 
+#Find the character which exists once
+#Since python dict has sorted the characters, find first character in a string
 minIndex=1000000
 for key in dict_words:
 	if (dict_words[key]==1):
